@@ -1,0 +1,40 @@
+.logo-image{
+    padding: 0px;
+    border:2px solid rgb(224, 142, 17);
+    border-radius: 10px;
+    margin: 50px;
+    width:100px;
+
+}
+.my-nav{
+    padding: 0px;
+    border: 2px solid rgb(180, 177, 177);
+    margin: 0px;
+    width:100%;
+    display: flex;
+    
+    
+}
+.SIGN-IMG{
+    padding: 0PX;
+    border: 2PX solid white;
+    border-radius: 150px;
+    margin: 2px;
+}
+.login-img{
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 150px;
+    border: 150px;
+    margin: 2px;
+}
+.button-set{
+    display:flex;
+    position: relative;
+    left: 60vw;
+    right: 30vw;
+}
+.scrol-img{
+    width: 100%;
+    height: 500px;
+}
